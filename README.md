@@ -1,5 +1,6 @@
 # Social Rank in a Small, Distributed Group
 Stephanie K. Ananth
+
 Carnegie Mellon University
 
 ## Introduction
